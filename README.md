@@ -1,2 +1,3 @@
 # To-Do-List
-This is my mini project for learning mobile application by using flutter, So I start this project for practice my skill to create mobile applications
+I clone this project from my another git account 
+This is my mini project for learning mobile application , So in this project I using realtime database firebase with android studio by using kotlin
